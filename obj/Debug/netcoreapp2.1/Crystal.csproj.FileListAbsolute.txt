@@ -1,0 +1,11 @@
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\obj\Debug\netcoreapp2.1\Crystal.csprojAssemblyReference.cache
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\obj\Debug\netcoreapp2.1\Crystal.csproj.CoreCompileInputs.cache
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\obj\Debug\netcoreapp2.1\Crystal.AssemblyInfoInputs.cache
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\obj\Debug\netcoreapp2.1\Crystal.AssemblyInfo.cs
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\bin\Debug\netcoreapp2.1\Crystal.deps.json
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\bin\Debug\netcoreapp2.1\Crystal.runtimeconfig.json
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\bin\Debug\netcoreapp2.1\Crystal.runtimeconfig.dev.json
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\bin\Debug\netcoreapp2.1\Crystal.dll
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\bin\Debug\netcoreapp2.1\Crystal.pdb
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\obj\Debug\netcoreapp2.1\Crystal.dll
+C:\Users\BUYPOWER-PC\source\repos\Crystal\Crystal\obj\Debug\netcoreapp2.1\Crystal.pdb
